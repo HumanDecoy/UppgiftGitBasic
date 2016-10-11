@@ -35,3 +35,4 @@ function stackMe(){
 |Dålig grej  1 | Bra grej  1 |
 |Dålig grej  2 | Bra grej  2 |
 |Dålig grej  3 | Bra grej  3 |
+|Dålig grej  4 | Bra Grej  4 |
